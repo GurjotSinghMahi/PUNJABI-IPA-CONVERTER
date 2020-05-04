@@ -20,6 +20,6 @@ NOTE: IF YOU FIND ANY ERROR, KINDLY MAIL ME AT GURJOTMAHI20[AT]GMAIL[DOT]COM
 
 ---
 ## License
-[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/GurjotSinghMahi/punjabi_news_website_crawlers/blob/master/mit_licence.txt)
-- **[MIT license](https://github.com/GurjotSinghMahi/punjabi_news_website_crawlers/blob/master/mit_licence.txt)**
+[![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](https://github.com/GurjotSinghMahi/PUNJABI-IPA-CONVERTER/blob/master/LICENSE.txt)
+- **[MIT license](https://github.com/GurjotSinghMahi/PUNJABI-IPA-CONVERTER/blob/master/LICENSE.txt)**
 - Copyright 2020 © Gurjot Singh Mahi
